@@ -1,4 +1,4 @@
-#🚗🎤Voice Navigation Chatbot
+#Voice Navigation Chatbot
 
 A multilingual, voice-controlled navigation assistant built using Python and open-source mapping services.
 This chatbot allows users to speak or type their starting location and destination, then provides real-world distance, estimated travel time, and step-by-step driving directions.
